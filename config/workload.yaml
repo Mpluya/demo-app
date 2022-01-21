@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/demo-app
+      url: https://github.com/Mpluya/demo-app
       ref:
         branch: main
